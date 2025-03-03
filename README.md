@@ -8,9 +8,13 @@ It is implemented using Streamlit for the user interface and DEAP (Distributed E
 
 🎯 Features
 🔹 User-friendly UI (Streamlit-based)
+
 🔹 Multi-objective optimization using NSGA-II
+
 🔹 Evolves regex patterns automatically
+
 🔹 Uses crossover and mutation to refine regex
+
 🔹 Displays the best regex at the end of evolution
 
 
