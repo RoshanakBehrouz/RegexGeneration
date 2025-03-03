@@ -7,6 +7,7 @@ This project uses Genetic Programming to evolve regular expressions based on pos
 It is implemented using Streamlit for the user interface and DEAP (Distributed Evolutionary Algorithms in Python) for the genetic algorithm.
 
 🎯 Features
+
 🔹 User-friendly UI (Streamlit-based)
 
 🔹 Multi-objective optimization using NSGA-II
